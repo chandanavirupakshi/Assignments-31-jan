@@ -19,16 +19,6 @@ const CardExampleGroups = () => (
         <Card.Description> Best Seller 
         </Card.Description>
       </Card.Content>
-      {/* <Card.Content extra>
-        <div className='ui two buttons'>
-          <Button basic color='green'>
-            Approve
-          </Button>
-          <Button basic color='red'>
-            Decline
-          </Button>
-        </div>
-      </Card.Content> */}
     </Card>
     <Card>
       <Card.Content>
@@ -59,16 +49,6 @@ const CardExampleGroups = () => (
          Rs: 999/-
         </Card.Description>
       </Card.Content>
-      {/* <Card.Content extra>
-        <div className='ui two buttons'>
-          <Button basic color='green'>
-            Approve
-          </Button>
-          <Button basic color='red'>
-            Decline
-          </Button>
-        </div>
-      </Card.Content> */}
     </Card>
     
   </Card.Group>
